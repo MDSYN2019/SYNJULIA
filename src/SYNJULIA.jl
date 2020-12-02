@@ -1,0 +1,3 @@
+module SYNJULIA
+
+end # module
