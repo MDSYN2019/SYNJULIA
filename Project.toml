@@ -1,4 +1,4 @@
-name = "SYNJULIA"
+	name = "SYNJULIA"
 uuid = "96aa923f-a036-4c87-b5a1-fc6b13292119"
 authors = ["sang <sangyoung123@googlemail.com>"]
 version = "0.1.0"
